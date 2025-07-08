@@ -7,6 +7,10 @@ Type `mlinedebug:false` and tab for a full list of macros, their purpose, and ex
 
 In-development. Current latest version: v0.1.0-alpha
 
+[![Watch the video](https://img.youtube.com/vi/TsSA10PSA8Q/maxresdefault.jpg)](https://youtu.be/TsSA10PSA8Q)
+
+### [mline demo/test](https://youtu.be/TsSA10PSA8Q)
+
 ## Known Issues:
 As of release, I personally have not discovered any issues. However my testing only goes so far and I would appreciate any constructive criticism as well bug-reports and suggestions.
 The primary issue to take note of is during installation, you'll be prompted with a message asking to allow the plugin the permission to manage scripts(or along those lines). I'm not entirely sure if this issue is an one-off thing or may occur to everyone, however sometimes the studio output might show that the permission was denied, even if you did accept it. As far as I know, restarting studio should fix this.
